@@ -201,8 +201,7 @@ def display_data(df):
             print("Incorrect input. Please only enter yes or no.")
             continue
         break
-        
-        
+
 def main():
     while True:
         city, month, day = get_filters()
