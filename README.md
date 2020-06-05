@@ -1,5 +1,5 @@
 ### Date created
-June 5th 2020
+5 June 2020
 
 ### Project Title
 Explore US Bikeshare Data with Python
