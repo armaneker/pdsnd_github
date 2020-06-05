@@ -2,7 +2,7 @@
 June 5th 2020
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data with Python
 
 ### Description
 To explore 3 different US city bikeshare usage data a python program has been developed. 
