@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+June 5th 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+To explore 3 different US city bikeshare usage data a python program has been developed. 
+This program takes input from a user who wants to get more information on the city and date
+of the usage of bikesharing. It will give different information on the general usage.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_yok_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://udacity.com
+https://stackoverflow.com
